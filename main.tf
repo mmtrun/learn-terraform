@@ -15,7 +15,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "matterTest"
+    organization = "matterTesting"
 
     workspaces {
       name = "learn-terraform-github-actions"
